@@ -22,6 +22,18 @@ channels = [
         "license_key": "3404792cb4c804902acdc6ca65c1a298:d386001215594043a8995db796ad9e9c",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "referrer": "https://www.visionplus.id/"
+    },
+    {
+        "name": "SCTV HD (MPD)",
+        "tvg_id": "SCTV.id",
+        "logo": "https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/...",
+        "group": "Lokal Indonesia",
+        "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd",
+        "manifest_type": "mpd",
+        "license_type": "clearkey",
+        "license_key": "93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+        "referrer": "https://www.visionplus.id/"
     }
 ]
 
